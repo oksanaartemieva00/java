@@ -7,6 +7,10 @@
     <groupId>org.example</groupId>
     <artifactId>100500</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <properties>
+        <maven.complier.source>1.8</maven.complier.source>
+        <maven.complier.target>1.8</maven.complier.target>
+    </properties>
 
 
 </project>
